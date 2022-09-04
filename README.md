@@ -1,8 +1,8 @@
-<p>### Hi there 👋<\p>
+<h1> ### Hi there 👋<\h1>
 
-<h1>🌱 I’m currently learning:
-<br>• Web development with JavaScript, CSS & HTML
-<br>• Backend development with C# and .NET<\h1>
+<h2>🌱 I’m currently learning:<\h2>
+<h3><br>• Web development with JavaScript, CSS & HTML
+<br>• Backend development with C# and .NET<\h3>
 
 
 
