@@ -2,4 +2,4 @@
 
 <h2>🌱 I’m currently learning:
 
-<br>• Backend: C#, .NET, SQL
+<br>• Backend: C#, .NET, PL/SQL
